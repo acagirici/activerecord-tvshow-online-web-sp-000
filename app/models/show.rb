@@ -8,19 +8,19 @@ class Show < ActiveRecord::Base
     
   end
   
-  def Show::highest_rating
+  def Show::lowest_rating
     
   end
   
-  def Show::highest_rating
+  def Show::least_popular_show
     
   end
   
-  def Show::highest_rating
+  def Show::rating_sum
     
   end
   
-  def Show::highest_rating
+  def Show::popular_shows
     
   end
   
